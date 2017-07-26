@@ -1,0 +1,7 @@
+To run browser sync -
+1.start terminal
+2.Go inside that specific folder usind cd foldername
+3.type this command
+
+
+->browser-sync start --server --directory --files "**/*"
